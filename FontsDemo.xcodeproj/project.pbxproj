@@ -12,6 +12,15 @@
 		0A46B8FC1C77A04400FC5EB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B8FA1C77A04400FC5EB8 /* Main.storyboard */; };
 		0A46B8FE1C77A04400FC5EB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B8FD1C77A04400FC5EB8 /* Assets.xcassets */; };
 		0A46B9011C77A04400FC5EB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B8FF1C77A04400FC5EB8 /* LaunchScreen.storyboard */; };
+		0A46B90A1C77A14A00FC5EB8 /* Bukhari Script.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B9081C77A14A00FC5EB8 /* Bukhari Script.ttf */; };
+		0A46B90B1C77A14A00FC5EB8 /* BukhariScriptAlternates.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B9091C77A14A00FC5EB8 /* BukhariScriptAlternates.ttf */; };
+		0A46B9111C77A15600FC5EB8 /* NexaRustExtras-Free.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B90C1C77A15600FC5EB8 /* NexaRustExtras-Free.otf */; };
+		0A46B9121C77A15600FC5EB8 /* NexaRustHandmade-Extended.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B90D1C77A15600FC5EB8 /* NexaRustHandmade-Extended.otf */; };
+		0A46B9131C77A15600FC5EB8 /* NexaRustSans-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B90E1C77A15600FC5EB8 /* NexaRustSans-Black.otf */; };
+		0A46B9141C77A15600FC5EB8 /* NexaRustScriptL-0.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B90F1C77A15600FC5EB8 /* NexaRustScriptL-0.otf */; };
+		0A46B9151C77A15600FC5EB8 /* NexaRustSlab-BlackShadow01.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B9101C77A15600FC5EB8 /* NexaRustSlab-BlackShadow01.otf */; };
+		0A46B9181C77A16500FC5EB8 /* Disclaimer-Classic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B9161C77A16500FC5EB8 /* Disclaimer-Classic.otf */; };
+		0A46B9191C77A16500FC5EB8 /* Disclaimer-Plain.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A46B9171C77A16500FC5EB8 /* Disclaimer-Plain.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		0A46B8FD1C77A04400FC5EB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0A46B9001C77A04400FC5EB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0A46B9021C77A04400FC5EB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0A46B9081C77A14A00FC5EB8 /* Bukhari Script.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Bukhari Script.ttf"; sourceTree = "<group>"; };
+		0A46B9091C77A14A00FC5EB8 /* BukhariScriptAlternates.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BukhariScriptAlternates.ttf; sourceTree = "<group>"; };
+		0A46B90C1C77A15600FC5EB8 /* NexaRustExtras-Free.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NexaRustExtras-Free.otf"; sourceTree = "<group>"; };
+		0A46B90D1C77A15600FC5EB8 /* NexaRustHandmade-Extended.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NexaRustHandmade-Extended.otf"; sourceTree = "<group>"; };
+		0A46B90E1C77A15600FC5EB8 /* NexaRustSans-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NexaRustSans-Black.otf"; sourceTree = "<group>"; };
+		0A46B90F1C77A15600FC5EB8 /* NexaRustScriptL-0.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NexaRustScriptL-0.otf"; sourceTree = "<group>"; };
+		0A46B9101C77A15600FC5EB8 /* NexaRustSlab-BlackShadow01.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NexaRustSlab-BlackShadow01.otf"; sourceTree = "<group>"; };
+		0A46B9161C77A16500FC5EB8 /* Disclaimer-Classic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Disclaimer-Classic.otf"; sourceTree = "<group>"; };
+		0A46B9171C77A16500FC5EB8 /* Disclaimer-Plain.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Disclaimer-Plain.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +75,15 @@
 				0A46B8F61C77A04400FC5EB8 /* AppDelegate.swift */,
 				0A46B8F81C77A04400FC5EB8 /* ViewController.swift */,
 				0A46B8FA1C77A04400FC5EB8 /* Main.storyboard */,
+				0A46B9081C77A14A00FC5EB8 /* Bukhari Script.ttf */,
+				0A46B9091C77A14A00FC5EB8 /* BukhariScriptAlternates.ttf */,
+				0A46B90C1C77A15600FC5EB8 /* NexaRustExtras-Free.otf */,
+				0A46B90D1C77A15600FC5EB8 /* NexaRustHandmade-Extended.otf */,
+				0A46B90E1C77A15600FC5EB8 /* NexaRustSans-Black.otf */,
+				0A46B90F1C77A15600FC5EB8 /* NexaRustScriptL-0.otf */,
+				0A46B9101C77A15600FC5EB8 /* NexaRustSlab-BlackShadow01.otf */,
+				0A46B9161C77A16500FC5EB8 /* Disclaimer-Classic.otf */,
+				0A46B9171C77A16500FC5EB8 /* Disclaimer-Plain.otf */,
 				0A46B8FD1C77A04400FC5EB8 /* Assets.xcassets */,
 				0A46B8FF1C77A04400FC5EB8 /* LaunchScreen.storyboard */,
 				0A46B9021C77A04400FC5EB8 /* Info.plist */,
@@ -123,8 +150,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A46B9011C77A04400FC5EB8 /* LaunchScreen.storyboard in Resources */,
+				0A46B9191C77A16500FC5EB8 /* Disclaimer-Plain.otf in Resources */,
+				0A46B90A1C77A14A00FC5EB8 /* Bukhari Script.ttf in Resources */,
+				0A46B9151C77A15600FC5EB8 /* NexaRustSlab-BlackShadow01.otf in Resources */,
+				0A46B9111C77A15600FC5EB8 /* NexaRustExtras-Free.otf in Resources */,
 				0A46B8FE1C77A04400FC5EB8 /* Assets.xcassets in Resources */,
+				0A46B90B1C77A14A00FC5EB8 /* BukhariScriptAlternates.ttf in Resources */,
+				0A46B9121C77A15600FC5EB8 /* NexaRustHandmade-Extended.otf in Resources */,
+				0A46B9131C77A15600FC5EB8 /* NexaRustSans-Black.otf in Resources */,
 				0A46B8FC1C77A04400FC5EB8 /* Main.storyboard in Resources */,
+				0A46B9141C77A15600FC5EB8 /* NexaRustScriptL-0.otf in Resources */,
+				0A46B9181C77A16500FC5EB8 /* Disclaimer-Classic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
